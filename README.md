@@ -12,7 +12,8 @@
 
 **MENTOR**: NEELA SANTOSH
 
-# DESCRIPTION : This project focuses on building a temperature monitoring system using the LM35 temperature sensor and Arduino Uno. The LM35 provides an analog voltage output proportional to the ambient temperature, which is read by the Arduino's analog pin. The temperature data is then processed and displayed in real time either on a 16x2 LCD display using the LiquidCrystal library or on the Serial Monitor. The task includes designing the circuit, writing and uploading the Arduino code, and demonstrating the working system through live temperature readings. This project helps in understanding analog sensor interfacing, real-time data display, and basic electronics integration with microcontrollers.
+# DESCRIPTION : This project integrates a **push button counter** with a **temperature sensing system**, aimed at demonstrating basic digital input handling and sensor interfacing using a microcontroller like Arduino. The push button acts as a simple user input to increment a counter, which can be displayed on an LCD or serial monitor. Simultaneously, a **temperature sensor** (such as an LM35 or DHT11) is used to continuously measure the ambient temperature. The measured temperature is also displayed on the LCD or serial monitor in real-time. This setup not only helps in understanding the functionality of digital inputs and sensors but also provides practical exposure to serial communication or display interfacing in embedded systems.
+
 
 # OUTPUT :
 ![Image](https://github.com/user-attachments/assets/01f2d26e-55e0-458e-a707-7a587aeb2232)
